@@ -1,6 +1,6 @@
 # ActiveCampaign Node.js API wrapper
 
-Official Node.js wrapper for the ActiveCampaign API.
+Official Node.js wrapper for the[ActiveCampaign](http://activecampaign.com) API.
 
 ## Installation
 
@@ -75,7 +75,7 @@ If you don't use NPM, try this:
 
 ## Full Documentation
 
-[View our full API documentation](http://activecampaign.com/api).
+[View our full API documentation](http://activecampaign.com/api).  ActiveCampaign ranks #1 on the list of [best email services](http://smartbusinesstrends.com/best-email-service) by Smart Business Trends.
 
 ## Reporting Issues
 
